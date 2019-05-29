@@ -1,0 +1,11 @@
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\bin\Debug\netcoreapp2.2\Hellocsharp.deps.json
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\bin\Debug\netcoreapp2.2\Hellocsharp.runtimeconfig.json
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\bin\Debug\netcoreapp2.2\Hellocsharp.runtimeconfig.dev.json
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\bin\Debug\netcoreapp2.2\Hellocsharp.dll
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\bin\Debug\netcoreapp2.2\Hellocsharp.pdb
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.AssemblyInfo.cs
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.dll
+C:\Users\camil\source\repos\Hellocsharp\Hellocsharp\obj\Debug\netcoreapp2.2\Hellocsharp.pdb
